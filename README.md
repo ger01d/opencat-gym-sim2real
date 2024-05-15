@@ -9,7 +9,7 @@ Install the necessary python packages.
 On BiBoard flash the provided opencat-esp32 fork https://github.com/ger01d/OpenCatEsp32-sim2real, that has slight adjustments in the serial communication.
 
 ## Run
-Run the ``` python enjoy.py``` on a computer connected to the opencat robot Bittle via serial port.
+Run the ```python enjoy.py``` on a computer connected to the opencat robot Bittle via serial port.
 
 ## Info
 This implementation is tested for BiBoard and is still highly experimental.
