@@ -1,5 +1,5 @@
 # Sim2Real framework for opencat-gym
-With this code the trained agents from opencat-gym can be applied on the robot. The robot is controlled via the serial connection.
+With this code the trained agents from [opencat-gym](https://github.com/ger01d/opencat-gym) can be applied on the robot. The robot is controlled via the serial connection.
 
 ## Installation
 ### Python Setup on Computer
