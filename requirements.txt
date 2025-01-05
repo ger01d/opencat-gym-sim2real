@@ -1,0 +1,5 @@
+stable-baselines3
+serial
+serial.tools
+pyserial
+scipy
