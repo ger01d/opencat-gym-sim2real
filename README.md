@@ -3,7 +3,7 @@ With this code the trained agents from [opencat-gym](https://github.com/ger01d/o
 
 ## Installation
 ### Python Setup on Computer
-Install the necessary python packages. 
+Install the necessary python packages: ```pip install -r requirements.txt```
 
 ### Flash BiBoard
 On BiBoard flash the provided opencat-esp32 fork https://github.com/ger01d/OpenCatEsp32-sim2real, that has slight adjustments in the serial communication.
